@@ -1,7 +1,7 @@
 <html>
 
    
-  </head>
+ 
   <body>
     
   <div class="container">
@@ -24,7 +24,7 @@ Throughout this visit, I was amazed that I managed to get to deepen my knowledge
 ![photo_2026-01-15 19 42 37](https://github.com/user-attachments/assets/28b25951-db59-4886-b914-61a442c37e1e)
 
 
-<bold>Check out the UTMDigital Open Day VLOG :</bold> 
+<bold>Check out the UTMDigital Open Day VLOG :</bold> https://drive.google.com/file/d/15sh4_oUySNB-jMAnJJnuLHrosTxhb29k/view?usp=sharing
 
  </p>
   </body>
