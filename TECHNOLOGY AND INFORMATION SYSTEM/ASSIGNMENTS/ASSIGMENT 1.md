@@ -1,31 +1,7 @@
 <html>
-  <head>
-  
-<title>Industrial Visit 1 : UTMDigital Open Day</title>
-<style>
-  .container {
-  max-width: 800px;       
-  margin: 50px auto;      
-  padding: 30px;          
-  background-color: #fff; 
-  border-radius: 10px;    
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
-}
-  h1 {
-    text-align: center;
-    }
-  h2{
-    color: #555;
-    margin-top: 20px;
-    }
-  p {
-    text-align: justify;
-    line-height: 1.6;
-    }
-</style>
 
+   
   </head>
-  
   <body>
     
   <div class="container">
