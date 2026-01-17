@@ -30,6 +30,10 @@ I learned that a career in the PPG is also learning where they have industry pro
 <h2>💡Suggestion of improvement : </h2>
 The talk can be improved by giving ahead materials about basic ERP explanation or each CoE role so that students can get a gist of what the talk is about before attending the talk. They can also include a quiz session to ensure the students engage with the speaker.<br><br>
 
+<h2>📄 Executive Summary</h2>
+
+I have made an Executive Summary with my friends : [INDUSTRY TALK PPG-2.pdf](https://github.com/user-attachments/files/24688830/INDUSTRY.TALK.PPG-2.pdf) <br><br><br>
+
 
 <img width="913" height="502" alt="Our Guest Speakers" src="https://github.com/user-attachments/assets/cbe87892-d6fc-42d5-9008-9a730b05dce5" />
 
