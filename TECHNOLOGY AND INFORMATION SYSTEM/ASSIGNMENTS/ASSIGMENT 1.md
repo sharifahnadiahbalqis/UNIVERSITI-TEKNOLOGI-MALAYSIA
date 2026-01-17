@@ -6,8 +6,14 @@
     
   <div class="container">
    <h1> 🏭 Industrial Visit 1 : UTMDigital Open Day</h1>
-    <h2>📝 Summarization of the visit </h2>
-    <p> 
+   
+ <p> 
+<div align="center">
+ 
+   ![photo_2026-01-15 19 42 54](https://github.com/user-attachments/assets/9dc6469a-8fe2-430c-97fd-b6f2498df03a)
+   
+</div>
+ <h2>📝 Summarization of the visit </h2>
 On the 29th of October 2025, I went on an industrial visit to UTMDigital open day to observe more about how real-world computer science applications are implemented in a professional environment. During the visit, I went to hear an insightful talk about system development by a senior IT officer of the Department of Digital Services, Mr. Helmee Bin Yaacob. This talk broadened my view on how people work in a team to work on developing a project to success. Not only that, I learned that this knowledge is needed by all employees in a company where they aim to achieve a better outcome tomorrow than yesterday. 
 
 Next, I went to the booth displayed by other technology companies. One of them is from DELL Technologies, where they display their invention on technology used by the army. This makes me realize that computer science can contribute to helping various types of organizations, not limited to just one. Next, I went to the booth by Crossroad Solutions, where they explained a lot of things, such as the DNS management system, IPv6, which is the latest version of IP. These pieces of information are important for my course, which is network and security.
@@ -25,7 +31,7 @@ Throughout this visit, I was amazed that I managed to get to deepen my knowledge
 <br><br>
 
 
-![photo_2026-01-15 19 42 54](https://github.com/user-attachments/assets/9dc6469a-8fe2-430c-97fd-b6f2498df03a)
+
 ![photo_2026-01-15 19 42 41](https://github.com/user-attachments/assets/a699f2a7-cd14-4c4a-ac7c-31dea3b5b043)
 
 ![photo_2026-01-15 19 43 21](https://github.com/user-attachments/assets/f6abde9a-2c2e-4834-a83d-fb8befcd614a)
