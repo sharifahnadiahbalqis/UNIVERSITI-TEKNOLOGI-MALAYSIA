@@ -37,6 +37,13 @@ Hearing the talk helped me understand the challenges faced during the early year
 <h2>💡Suggestion of improvement : </h2>
 The talk can be prepared with material for students about basic explanation about project management and SDLC, so that the students can get the gist of the topic and understand it more. Conduct a quiz session so that the student can recall the topic discussed in the talk.<br><br>
 
+<h2> 📄 Academic Writing</h2>
+I have made an academic writing from this talk with my friends : 
+
+[ASSIGNMENT 3 - INDUSTRY TALK 2 (ACADEMIC WRITING) TIS SECTION 06 (1).pdf](https://github.com/user-attachments/files/24688853/ASSIGNMENT.3.-.INDUSTRY.TALK.2.ACADEMIC.WRITING.TIS.SECTION.06.1.pdf)
+
+<br><br>
+
  <div align="center">
 <img width="585" height="286" alt="Screenshot 2026-01-15 at 2 36 04 PM" src="https://github.com/user-attachments/assets/60023b4f-fcb4-4e28-85bf-5714198cf189" />
 
