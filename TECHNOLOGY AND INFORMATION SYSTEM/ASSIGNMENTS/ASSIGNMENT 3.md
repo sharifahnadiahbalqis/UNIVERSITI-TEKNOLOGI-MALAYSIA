@@ -24,6 +24,10 @@ For each of the CoE, I learned :
 
 I learned that a career in the PPG is also learning where they have industry proffesional mentors, work with different business functions, and work on real-world projects. This has broadened my view on how ICT is implemented in the industries and given me a clearer view of how each role contributed to the industry.
 
+<h2>💡Suggestion of improvement : </h2>
+The talk can be improved by giving ahead materials about basic ERP explanation or each CoE role so that students can get a gist of what the talk is about before attending the talk. They can also include a quiz session to ensure the students engage with the speaker.
+
+
 <img width="913" height="502" alt="Our Guest Speakers" src="https://github.com/user-attachments/assets/cbe87892-d6fc-42d5-9008-9a730b05dce5" />
 
   
