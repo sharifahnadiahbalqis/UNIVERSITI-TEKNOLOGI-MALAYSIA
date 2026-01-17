@@ -10,7 +10,7 @@
   </div>
 <h2> 📝 Summarization: </h2>
 
-From the talk by a former UTM student, the Head of Technology and Innovation at Serunai Commerce Sdn.Bhd, Ts. Hj Abdul Alim Bin Abdul Mutalib, I learned another important key for a career in the future.
+From the talk by a former UTM student, the Head of Technology and Innovation at Serunai Commerce Sdn.Bhd, Ts. Hj Abdul Alim Bin Abdul Muttalib, I learned another important key for a career in the future.
 
 What I get from the talk : 
 
