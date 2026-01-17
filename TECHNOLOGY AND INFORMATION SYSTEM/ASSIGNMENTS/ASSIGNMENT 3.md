@@ -2,13 +2,16 @@
 <body>
 
   
-
-  <h1>🗨️ Industrial Talk 1 : PPG Industrial Talk </h1>
+ <div align="center">
+  <h1>🏭 Industrial Talk 1 : PPG Industrial Talk </h1>
  
   <p>
   
     
   ![PPG](https://github.com/user-attachments/assets/213f9327-6ad4-4a18-8d05-02d84e161de8)
+
+  </div>
+  
 <h2>📝 Summarization and Reflection : </h2>
 On 20 November 2025, I attended an industrial talk by Ms. Ai Ling Ooi, Ms. Lee Man Shin, Mr. Derrick Tan Horng Shi, Mr. Vijaykumar Dhandapani, and Mr. Patrick Thong, where I learned that PPG is a trusted company globally with over 140 years of experience operating in more than 70 counteries where it shows that trust is important to maintain customer partnership. <br><br>
 
