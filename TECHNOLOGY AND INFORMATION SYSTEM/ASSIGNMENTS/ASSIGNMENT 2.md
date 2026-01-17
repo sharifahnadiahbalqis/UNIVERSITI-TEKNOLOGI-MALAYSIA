@@ -23,7 +23,7 @@ For each of the CoE, I learned :<br>
 
 - <b>Global Infrastructure CoE</b> has three main functions: plan, which plans and evolves global IT strategy, build, which builds and adapts IT services, and run, which keeps IT services running smoothly for end users. They use a multi-cloud approach, including AWS, Microsoft Azure, Alibaba Cloud, VMware, Oracle Cloud, and PPG Performance Hub.
 
-- <b>SAP CoE</b>, which is a popular ERP software, focuses on key business processes where it uses backend tools for developing, cutomizing and managing its architecture, then reports it to the business warehouse where data warehousing occurs, and also to the SAP Analytics Cloud for predictive analytics single solution.
+- <b>SAP CoE</b>, supports and manages the SAP ERP system, focuses on key business processes where it uses backend tools for developing, cutomizing and managing its architecture, then reports it to the business warehouse where data warehousing occurs, and also to the SAP Analytics Cloud for predictive analytics single solution.
 
 I learned that a career in the PPG is also learning where they have industry proffesional mentors, work with different business functions, and work on real-world projects. This has broadened my view on how ICT is implemented in the industries and given me a clearer view of how each role contributed to the industry.
 
