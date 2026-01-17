@@ -13,18 +13,18 @@ What I get from the talk :
 
 <h3>Project management </h3>
   - The project manager's goal is to fulfill the scope, schedule, cost, resources, risk, and quality criteria and guide the process to meet stakeholders' needs and expectations.<br><br>
-  - Waterfall method: Traditional, linear, and use sequential approach where one phase must be finished before the next phase begins. This phase is best for projects with clear and stable requirements. The downside of this method is difficult to handle changes and is not very flexible.<br><br>
-  - Agile method: Modern, iterative approach with work broken into sprints, which requires constant customer feedback. This ensures the system meets the actual user needs, which is more flexible and adaptive compared to the waterfall method.<br>
+  - <b>Waterfall Method:</b> Traditional, linear, and use sequential approach where one phase must be finished before the next phase begins. This phase is best for projects with clear and stable requirements. The downside of this method is difficult to handle changes and is not very flexible.<br><br>
+  - <b>Agile Method:</b> Modern, iterative approach with work broken into sprints, which requires constant customer feedback. This ensures the system meets the actual user needs, which is more flexible and adaptive compared to the waterfall method.<br>
 
   <h3>System Development (SDLC) </h3>
-  - Planning: Establish goals, purpose, and desired outcomes.<br>
-  - Engineering: Gather and analyze requirements.<br>
-  - Documentation: Record requirements and specifications.<br>
-  - Design: Create a prototype and visual representations.<br>
-  - Development: Write component codes.<br>
-  - Testing: Ensure components, security, and systems meet quality standards.<br>
-  - Deployment: Launch the software on the intended platform.<br>
-  - Maintenance: Provide ongoing support and updates.<br><br><br>
+  - <b>Planning:</b> Establish goals, purpose, and desired outcomes.<br>
+  - <b>Engineering:</b> Gather and analyze requirements.<br>
+  - <b>Documentation:</b> Record requirements and specifications.<br>
+  - <b>Design:</b> Create a prototype and visual representations.<br>
+  - <b>Development:</b> Write component codes.<br>
+  - <b>Testing:</b> Ensure components, security, and systems meet quality standards.<br>
+  - <b>Development:</b> Launch the software on the intended platform.<br>
+  - <b>Maintenance:</b> Provide ongoing support and updates.<br><br><br>
 
   The speaker used an analogy on cooking method that emphasized following a structured set of steps to achieve successful results.
   
