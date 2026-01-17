@@ -47,6 +47,15 @@ The visit to Johor Port exposed me to how innovation and ICT are applied in a hi
 The visit should show more detailed demonstration of PAMS or JPBI so that students can understand more on how it is implemented in real world application. 
 <br><br>
 
+<h2>📰 Newsletter</h2>
+I have made a newsletter for this industrial visit with my friends : 
+
+[ASSIGNMENT 4 NEWSLETTER.pdf](https://github.com/user-attachments/files/24688931/ASSIGNMENT.4.NEWSLETTER.pdf)
+<br><br>
+
+
+
+
 ![IMG_2107_2](https://github.com/user-attachments/assets/c3b2aaa8-6b70-4fbb-ace2-338373cebed5)
 
 ![IMG_2143](https://github.com/user-attachments/assets/8322b714-26f9-47ad-a36d-5221fe5957b9)
