@@ -10,22 +10,22 @@
     
   ![PPG](https://github.com/user-attachments/assets/213f9327-6ad4-4a18-8d05-02d84e161de8)
 <h2>📝 Summarization and Reflection : </h2>
-On 20 November 2025, I attended an industrial talk by Ms. Ai Ling Ooi, Ms. Lee Man Shin, Mr. Derrick Tan Horng Shi, Mr. Vijaykumar Dhandapani, and Mr. Patrick Thong, where I learned that PPG is a trusted company globally with over 140 years of experience operating in more than 70 counteries where it shows that trust is important to maintain customer partnership. 
+On 20 November 2025, I attended an industrial talk by Ms. Ai Ling Ooi, Ms. Lee Man Shin, Mr. Derrick Tan Horng Shi, Mr. Vijaykumar Dhandapani, and Mr. Patrick Thong, where I learned that PPG is a trusted company globally with over 140 years of experience operating in more than 70 counteries where it shows that trust is important to maintain customer partnership. <br><br>
 
 
 
-For each of the CoE, I learned :
+For each of the CoE, I learned :<br>
 
-- Data analytics CoE enable data driven decision making where they use data for business results to improve efficiency and build opportunities to grow. They collect data and analyse the data by using a complex analysis tool, which is the supply chain control tower, which requires skills in programming, data & file types, data visualization, ELT, DevOps practices, and database design.
+- <b>Data analytics CoE </b> enable data driven decision making where they use data for business results to improve efficiency and build opportunities to grow. They collect data and analyse the data by using a complex analysis tool, which is the supply chain control tower, which requires skills in programming, data & file types, data visualization, ELT, DevOps practices, and database design.
 
-- Global Infrastructure CoE has three main functions: plan, which plans and evolves global IT strategy, build, which builds and adapts IT services, and run, which keeps IT services running smoothly for end users. They use a multi-cloud approach, including AWS, Microsoft Azure, Alibaba Cloud, VMware, Oracle Cloud, and PPG Performance Hub.
+- <b>Global Infrastructure CoE</b> has three main functions: plan, which plans and evolves global IT strategy, build, which builds and adapts IT services, and run, which keeps IT services running smoothly for end users. They use a multi-cloud approach, including AWS, Microsoft Azure, Alibaba Cloud, VMware, Oracle Cloud, and PPG Performance Hub.
 
-- SAP CoE, which is a popular ERP software, focuses on key business processes where it uses backend tools for developing, cutomizing and managing its architecture, then reports it to the business warehouse where data warehousing occurs, and also to the SAP Analytics Cloud for predictive analytics single solution.
+- <b>SAP CoE</b>, which is a popular ERP software, focuses on key business processes where it uses backend tools for developing, cutomizing and managing its architecture, then reports it to the business warehouse where data warehousing occurs, and also to the SAP Analytics Cloud for predictive analytics single solution.
 
 I learned that a career in the PPG is also learning where they have industry proffesional mentors, work with different business functions, and work on real-world projects. This has broadened my view on how ICT is implemented in the industries and given me a clearer view of how each role contributed to the industry.
 
 <h2>💡Suggestion of improvement : </h2>
-The talk can be improved by giving ahead materials about basic ERP explanation or each CoE role so that students can get a gist of what the talk is about before attending the talk. They can also include a quiz session to ensure the students engage with the speaker.
+The talk can be improved by giving ahead materials about basic ERP explanation or each CoE role so that students can get a gist of what the talk is about before attending the talk. They can also include a quiz session to ensure the students engage with the speaker.<br><br>
 
 
 <img width="913" height="502" alt="Our Guest Speakers" src="https://github.com/user-attachments/assets/cbe87892-d6fc-42d5-9008-9a730b05dce5" />
