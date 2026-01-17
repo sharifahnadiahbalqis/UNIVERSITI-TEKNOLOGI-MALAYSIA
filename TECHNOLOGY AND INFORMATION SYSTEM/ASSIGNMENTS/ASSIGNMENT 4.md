@@ -1,10 +1,13 @@
 <html>
 
 <body>
+   <div align="center">
   <h1>🏭 Industrial talk 2: Project Management dan System Development</h1>
+   </div>
 <p>  
+  <div align="center">
 <img width="270" height="297" alt="image" src="https://github.com/user-attachments/assets/a891cbf3-4240-45dd-a44d-0d6974e6e903" />
-
+  </div>
 <h2> 📝 Summarization: </h2>
 
 From the talk by a former UTM student, the Head of Technology and Innovation at Serunai Commerce Sdn.Bhd, Ts. Hj Abdul Alim Bin Abdul Mutalib, I learned another important key for a career in the future.
@@ -34,7 +37,7 @@ Hearing the talk helped me understand the challenges faced during the early year
 <h2>💡Suggestion of improvement : </h2>
 The talk can be prepared with material for students about basic explanation about project management and SDLC, so that the students can get the gist of the topic and understand it more. Conduct a quiz session so that the student can recall the topic discussed in the talk.<br><br>
 
-
+ <div align="center">
 <img width="585" height="286" alt="Screenshot 2026-01-15 at 2 36 04 PM" src="https://github.com/user-attachments/assets/60023b4f-fcb4-4e28-85bf-5714198cf189" />
 
 <img width="588" height="312" alt="Screenshot 2026-01-15 at 2 36 55 PM" src="https://github.com/user-attachments/assets/5cb25f54-27bd-431f-be8c-a4e17d7fa6be" />
@@ -46,6 +49,7 @@ The talk can be prepared with material for students about basic explanation abou
 
 <img width="588" height="267" alt="Screenshot 2026-01-15 at 2 36 26 PM" src="https://github.com/user-attachments/assets/724fcaa7-f280-4af9-aceb-b2c87edf953d" />
 
+</div>
 
 
 
