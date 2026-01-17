@@ -18,8 +18,12 @@ Throughout this visit, I was amazed that I managed to get to deepen my knowledge
 </p>
 <h2>💡Suggestion of improvement : </h2>
 <p>
-   For the improvement, I hope that the activity held there shows hands-on experience for computer science students to see and apply the real-world application. They could also invite more tech companies to do the exhibition for more exposure to the students and hold it at more spacious space.
+   For the improvement, I hope that the activity held there shows hands-on experience for computer science students to see and apply the real-world application. They could also invite more tech companies to do the exhibition for more exposure to the students and hold it at more spacious space.<br>
 </p>
+<h2>🎥 VLOG</h2>
+<bold> Check out the UTMDigital Open Day VLOG:</bold> https://drive.google.com/file/d/15sh4_oUySNB-jMAnJJnuLHrosTxhb29k/view?usp=sharing
+<br><br>
+
 
 ![photo_2026-01-15 19 42 54](https://github.com/user-attachments/assets/9dc6469a-8fe2-430c-97fd-b6f2498df03a)
 ![photo_2026-01-15 19 42 41](https://github.com/user-attachments/assets/a699f2a7-cd14-4c4a-ac7c-31dea3b5b043)
@@ -31,7 +35,6 @@ Throughout this visit, I was amazed that I managed to get to deepen my knowledge
 ![photo_2026-01-15 19 42 37](https://github.com/user-attachments/assets/28b25951-db59-4886-b914-61a442c37e1e)
 
 
-<bold>🎥 Check out the UTMDigital Open Day VLOG:</bold> https://drive.google.com/file/d/15sh4_oUySNB-jMAnJJnuLHrosTxhb29k/view?usp=sharing
 
  </p>
   </body>
