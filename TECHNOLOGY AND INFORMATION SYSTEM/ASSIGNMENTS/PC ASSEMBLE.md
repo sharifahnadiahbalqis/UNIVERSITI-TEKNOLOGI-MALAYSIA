@@ -3,7 +3,8 @@
   <body>
      <div align="center">
   <h1> 🖥️ PC assemble lab  </h1>
-     </div>
+          
+  </div>
   <p>
   
   
@@ -12,12 +13,21 @@
   On 5 November 2025, I had a PC assembly lab where I learned the structure of a PC and how to assemble and disassemble it step by step with the help of an instructor. In a group of five, we started by disassembling the PC, opening the case, removing the wires connected to the motherboard, the power supply, RAM, hard disk, and the CPU fan using a screwdriver. After disassembling the PC, we assembled it back and switched it on to test it, and the PC worked well, showing that we assembled it correctly. After the lab session, there was a quiz to test our knowledge of the step-by-step process in assembling the PC. This lab session expanded my knowledge of hardware components, allowing me to identify PC parts and understand how to modify storage, RAM, and other components based on my preferences.
 
   <h2>💡Suggestion of improvement : </h2> 
+  
 
   <p>
   The lab staff can provide a manual sheet for the students to take note of what and which part of the hardware in the PC needs to be taken care of step by step.
-  
-  </p>
 
+<div align="center">
+
+![WhatsApp Image 2026-01-17 at 19 42 30](https://github.com/user-attachments/assets/91720d07-d801-467b-aa24-fa1de3ba0710)
+
+  
+  ![WhatsApp Image 2026-01-17 at 19 42 29](https://github.com/user-attachments/assets/b2f189f2-b8ff-4ded-93dc-7de63d2fde78)
+
+  ![WhatsApp Image 2026-01-17 at 19 42 31 (1)](https://github.com/user-attachments/assets/894c0988-f9ce-4d97-9daa-45c17625fb4c)
+
+</div>
    </p>
    
   </body>
