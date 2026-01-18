@@ -14,22 +14,22 @@ From the talk by a former UTM student, the Head of Technology and Innovation at 
 
 What I get from the talk : 
 
-<h3>Project management </h3>
-  - The project manager's goal is to fulfill the scope, schedule, cost, resources, risk, and quality criteria and guide the process to meet stakeholders' needs and expectations.<br><br>
-  - <b>Waterfall Method:</b> Traditional, linear, and use sequential approach where one phase must be finished before the next phase begins. This phase is best for projects with clear and stable requirements. The downside of this method is difficult to handle changes and is not very flexible.<br><br>
-  - <b>Agile Method:</b> Modern, iterative approach with work broken into sprints, which requires constant customer feedback. This ensures the system meets the actual user needs, which is more flexible and adaptive compared to the waterfall method.<br>
+<h3>🗂️ Project management </h3>
+  🔹 The project manager's goal is to fulfill the scope, schedule, cost, resources, risk, and quality criteria and guide the process to meet stakeholders' needs and expectations.<br><br>
+  🔹 <b>Waterfall Method💧:</b> Traditional, linear, and use sequential approach where one phase must be finished before the next phase begins. This phase is best for projects with clear and stable requirements. The downside of this method is difficult to handle changes and is not very flexible.<br><br>
+  🔹 <b>Agile Method🔁:</b> Modern, iterative approach with work broken into sprints, which requires constant customer feedback. This ensures the system meets the actual user needs, which is more flexible and adaptive compared to the waterfall method.<br>
 
-  <h3>System Development (SDLC) </h3>
-  - <b>Planning:</b> Establish goals, purpose, and desired outcomes.<br>
-  - <b>Engineering:</b> Gather and analyze requirements.<br>
-  - <b>Documentation:</b> Record requirements and specifications.<br>
-  - <b>Design:</b> Create a prototype and visual representations.<br>
-  - <b>Development:</b> Write component codes.<br>
-  - <b>Testing:</b> Ensure components, security, and systems meet quality standards.<br>
-  - <b>Development:</b> Launch the software on the intended platform.<br>
-  - <b>Maintenance:</b> Provide ongoing support and updates.<br><br><br>
+  <h3>💻 System Development (SDLC) </h3>
+  🔹 <b>Planning:</b> Establish goals, purpose, and desired outcomes.<br>
+  🔹 <b>Engineering:</b> Gather and analyze requirements.<br>
+  🔹 <b>Documentation:</b> Record requirements and specifications.<br>
+  🔹 <b>Design:</b> Create a prototype and visual representations.<br>
+  🔹 <b>Development:</b> Write component codes.<br>
+  🔹 <b>Testing:</b> Ensure components, security, and systems meet quality standards.<br>
+  🔹 <b>Development:</b> Launch the software on the intended platform.<br>
+  🔹 <b>Maintenance:</b> Provide ongoing support and updates.<br><br><br>
 
-  The speaker used an analogy on cooking method that emphasized following a structured set of steps to achieve successful results.
+🌟 The speaker used an analogy on cooking method that emphasized following a structured set of steps to achieve successful results.
   
 <h2> ✏️ Reflection : </h2>
 Hearing the talk helped me understand the challenges faced during the early years of my career and the importance of applying the knowledge learned in university. The explanation about project management methodologies, such as the waterfall and agile methods, enhanced my understanding of how different approaches are used depending on the needs. Additionally, the discussion on the System Development Life Cycle (SDLC), which is explained by using a cooking analogy, made the development process easier and clearer to understand. I also realized how project management and system development play an important role in computer networks and security, especially in managing risks and ensuring system reliability. Overall, the industry talk increased my awareness towards real-world IT practices and motivated me to strengthen both my knowledge and project management skills for my future career.
