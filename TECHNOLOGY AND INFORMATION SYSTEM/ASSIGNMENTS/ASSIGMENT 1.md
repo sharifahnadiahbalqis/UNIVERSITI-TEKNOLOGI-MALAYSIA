@@ -4,11 +4,12 @@
  
   <body>
     
-  <div class="container">
+  <div align="center">
+ 
    <h1> 🏭 Industrial Visit 1 : UTMDigital Open Day</h1>
    
  <p> 
-<div align="center">
+
  
    ![photo_2026-01-15 19 42 54](https://github.com/user-attachments/assets/9dc6469a-8fe2-430c-97fd-b6f2498df03a)
    
