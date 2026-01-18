@@ -3,7 +3,10 @@
 <div align="center">
 <h1>🧑‍💻 Design Thinking Project : CyberCare (CC) : A Smart Online Counselling Platform For Cyberbullying Victims</h1>
 
-CyberCare(CC) is our solution on selected issue where it is developed as an anonymous online counseling platform that uses AI and professional counselors to provide immediate, confidential support to victims of cyberbullying.
+This design thinking project is a project for <b> TECHNOLOGY AND INFORMATION SYSTEMS (SECP1513) </b> that started on 21st October 2025, and with help from my teammates, we managed to complete it on 10th January and presented it on 14th January, which marks the end of our project. This project undergoes 5 phases to complete, which are empathy, define, ideate, prototype, and test, which are conducted step by step in order to solve the selected problem for this project.
+
+<img width="615" height="343" alt="Screenshot 2026-01-18 at 12 50 25 PM" src="https://github.com/user-attachments/assets/18774d62-365a-4a1c-afbf-98aa66d4c614" />
+
 
 
 </div>
@@ -19,16 +22,16 @@ We conducted a survey using google form based on articles we read and social med
 From the google form we identified that there is big percentage of students that experienced cyberbullying but didn't seek help because afraid of their information being leaked. Therefore, we define the main problem is cyberbullying victim's concern about their personal information being leaked.
 <h3>💡 <b>Ideate</b></h3>
 We brainstorm the solution for this problem and decide to develop CyberCare(CC) an online counseling platform.<br><br><b>These idea include : </b><br>
-* AI-powered chat for emotional support<br>
-* Live chat suppport with trained counselor<br>
-* Self-help mental health resources and reporting<br>
+🔹 AI-powered chat for emotional support<br>
+🔹 Live chat suppport with trained counselor<br>
+🔹 Self-help mental health resources and reporting<br>
 
 <h3>🛠️ <b>Prototype</b></h3>
-The protoype of CyberCare(CC) was to visualize design and functionality of the website. It include : <br>
-* AI-powered chat available 24/7 for immediate emotional support.<br>
-* Real counseling sessions with trained professional counsellors from selected institutions. Users can choose to receive support online via video call or face-to-face, depending on their preference.<br>
-* Counsellor selection where users can choose counsellors based on institution, name, education background, qualification, license and location.<br>
-* Calendar or booking system that allows users to schedule real counselling sessions according to the available slots.<br>
+The protoype of CyberCare(CC) was to visualize design and functionality of the website. It include : <br> <br>
+🤖 AI-powered chat available 24/7 for immediate emotional support. <br><br>
+🧑‍⚕️ Real counseling sessions with trained professional counsellors from selected institutions. Users can choose to receive support online via video call or face-to-face, depending on their preference.<br><br>
+🏫 Counsellor selection where users can choose counsellors based on institution,         name, education background, qualification, license and location.<br><br>
+🗓️ Calendar or booking system that allows users to schedule real counselling sessions according to the available slots.<br><br>
 
 <h3>✅ <b>Test</b></h3>
 To evaluate our website usability, effectiveness and user satisfaction, we conducted a test with one selectable user. The user suggested to create a feedback and rating form to let user comment about counselor.
